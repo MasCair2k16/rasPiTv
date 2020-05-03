@@ -36,4 +36,4 @@
 
 - Make a file that automate SCP to the pi without having to touch the Commandline (windows) or Terminal (Macintosh)
 
-# Owner: Mason Caird & Scott Griffith. Property Whitworth University
+### Owner: Mason Caird & Scott Griffith. Property Whitworth University
