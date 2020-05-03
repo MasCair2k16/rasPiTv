@@ -1,0 +1,7 @@
+#!/bin/bash
+
+#openvt -c 2 -s -- exec /home/pi/Desktop/helloworld.sh
+
+#xdg-open ~/Desktop/toPresent/1galaxy.jpg
+#openvt -c 2 -s -- fbi -noverbose -a -t 6 /home/pi/Desktop/toPresent/*.jpg
+eog --slide-show $f
