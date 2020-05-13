@@ -36,4 +36,6 @@
 
 - Make a file that automate SCP to the pi without having to touch the Commandline (windows) or Terminal (Macintosh)
 
+- Have the raspberry pi run on boot up without having to access the desktop.
+
 ### Owner: Mason Caird & Scott Griffith. Property Whitworth University
