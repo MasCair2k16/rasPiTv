@@ -12,12 +12,13 @@ do
 
 		Num="`expr substr $Cur 1 2`" # Parses the first Character
 		
-		
-		#if [[$Num = 0*]] # If first digit is 0, remove it to have I only integer
+		# Still needs work
+		# if [[$Num = 0*]] # If first digit is 0, remove it to have I only integer
 		#	then
 		#	$Num="`expr substr $Cur 2 2`" #
-		#fi
+		# fi
 		
+		# This would open virtual Terminal but sudo errors are occuring.
 		#sudo openvt -c 2 -f -- fbi -noverbose -a -t $Num -1 $f < /dev/tty2
 		
 		fbi -noverbose -a -t $Num -1 $f		
